@@ -1,7 +1,9 @@
 # clientside-custom
 
 This was created so I could upload my custom server replacements here, instead of giving individual links out.
+
 To use, simply extract into your addons. Your directory listing should be something like ```/addons/clientside-custom-main/models/```.
+
 ```/materials/``` is required unless you subscribe to the addon.
 
 This pack includes:
