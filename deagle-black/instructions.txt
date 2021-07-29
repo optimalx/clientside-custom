@@ -1,1 +1,0 @@
-This folder contains a void black CSS deagle. Delete if you do not want to replace the red deagle.
