@@ -11,13 +11,13 @@ This pack includes:
 2. Weapon model replacements (AHG Deagle, AHG Scout, AHG Silenced USP, Crowbar to Scythe)
 3. Weapon skin replacements:
  - CSS Scout (red)
- - CSS Deagle (red)
- - CSS AWP (void black//spec dm)
- - CSS USP (void black)
- - Hands (void black)
- - Python (void black)
- - M24 (void black)
- - Mag Stick (void black)
+ - CSS Deagle (red/black)
+ - CSS AWP (black//spec dm)
+ - CSS USP (black)
+ - Hands (black)
+ - Python (black)
+ - M24 (black)
+ - Mag Stick (black)
 
 If you do not want something replaced, delete the corresponding files.
 
