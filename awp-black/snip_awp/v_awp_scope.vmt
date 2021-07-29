@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\snip_awp\v_awp_scope"
+	"$nocull" "1"
+	"$envmapmask" "models\weapons\v_models\snip_awp\v_awp_scope_ref"
+
+}

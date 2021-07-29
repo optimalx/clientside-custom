@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/Weapons/v_crowbar/crowbar_cyl"
+	"$bumpmap" "models/Weapons/v_crowbar/crowbar_normal"
+}
