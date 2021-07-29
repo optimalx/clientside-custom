@@ -15,6 +15,7 @@ This pack includes:
  - CSS AWP (black//spec dm)
  - CSS USP (black)
  - Hands (black)
+ - Grenades (black) (incen, discombob, smoke)
  - Python (black)
  - M24 (black)
  - Mag Stick (black)
