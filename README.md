@@ -12,6 +12,7 @@ This pack includes:
 3. Weapon skin replacements:
  - CSS Scout (red)
  - CSS Deagle (red)
+ - CSS AWP (void black//spec dm)
  - CSS USP (void black)
  - Hands (void black)
  - Python (void black)
