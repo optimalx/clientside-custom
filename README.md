@@ -7,7 +7,7 @@ To use, simply extract into your addons. Your directory listing should be someth
 ```/materials/``` is required unless you subscribe to the addon.
 
 This pack includes:
-1. Playermodel replacements (Terror Train, Black Mesa, the 4 default T models, Kleiner, and Chell).
+1. Playermodel replacements (Terror Train, ~~Black Mesa~~, the 4 default T models, Kleiner, and Chell).
 2. Weapon model replacements (AHG Deagle, AHG Scout, AHG Silenced USP, Crowbar to Scythe)
 3. Weapon skin replacements:
  - CSS Scout (red)
