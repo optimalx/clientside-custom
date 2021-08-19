@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\v_models\Insurgency 2\M14 EBR\weapon_m14_dm"
+	"$bumpmap" 			    "models\weapons\v_models\Insurgency 2\M14 EBR\weapon_m14_nm"
+
+	
+				
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint" "[0.1 0.1 0.1]"
+}

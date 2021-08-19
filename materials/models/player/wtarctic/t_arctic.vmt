@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\wtarctic\wtarctic"
+	 "$bumpmap" "models/player/t_arctic\t_arctic_normal"
+}

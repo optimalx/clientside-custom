@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture			    "models\weapons\v_models\Insurgency 2\M14 EBR\a_4x_01_dm"
+	$bumpmap                  	"models\weapons\v_models\Insurgency 2\M14 EBR\a_4x_01_nm"
+        $color			        "[1.6 1.6 1.6]"
+
+
+
+	$envmap                         "env_cubemap"
+	$normalmapalphaenvmapmask       "1"
+	$envmaptint                     "[0.03 0.03 0.03]"
+}
