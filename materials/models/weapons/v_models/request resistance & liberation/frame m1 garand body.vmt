@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\Request Resistance & Liberation\Frame M1 Garand Body D"
+        "$bumpmap" "models\weapons\v_models\Request Resistance & Liberation\Frame M1 Garand Body N"
+	"$phong" "0"
+	"$phongexponent" "12"
+	"$phongboost" "0"	
+	"$phongfresnelranges"	"[1 3 6]"
+//	"$halflambert" "1"
+	"$phongalbedotint" "1"
+}
